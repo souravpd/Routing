@@ -10,9 +10,9 @@ public class BusStop {
     public String name;
     public Point location;
     public boolean isUsed = false;
-    public int Capacity;
-    public int demand;
-    ArrayList<Employee> EmployeeList = new ArrayList<Employee>();
+    public int Capacity = 32;
+    public int demand = 0;
+    public ArrayList<Employee> EmployeeList = new ArrayList<Employee>();
 
     public BusStop(int id , Point p , String name , String address ){
         this.id = id;

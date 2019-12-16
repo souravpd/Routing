@@ -7,15 +7,15 @@ import com.byteowls.jopencage.JOpenCageGeocoder;
 import com.byteowls.jopencage.model.JOpenCageForwardRequest;
 import com.byteowls.jopencage.model.JOpenCageLatLng;
 import com.byteowls.jopencage.model.JOpenCageResponse;
-import com.esri.core.geometry.Point;
 
 import Routing.models.BusStop;
+import Routing.models.Point;
 
 public class BusStopList {
-    ArrayList<BusStop> busStops = new ArrayList<BusStop>();
-    JOpenCageGeocoder jOpenCageGeocoder;
+    public ArrayList<BusStop> busStops = new ArrayList<BusStop>();
+    public JOpenCageGeocoder jOpenCageGeocoder;
 
-    BusStopList() {
+    public BusStopList() {
         jOpenCageGeocoder = new JOpenCageGeocoder("0631208b38114c70866b848b022b7e65");
     }
 
