@@ -3,12 +3,12 @@ package Routing.models;
 import com.esri.core.geometry.Point;
 
 public class Employee {
-    int id;
-    String name;
-    Point location;
-    String address;
-    boolean isAssignedBusStop = false;
-    BusStop BusStop = null;
+    public int id;
+    public String name;
+    public Point location;
+    public String address;
+    public boolean isAssignedBusStop = false;
+    public BusStop BusStop = null;
 
     public Employee(int id, Point p, String name, String address) {
         this.id = id;

@@ -5,13 +5,13 @@ import java.util.ArrayList;
 import com.esri.core.geometry.Point;
 
 public class BusStop {
-    int id;
-    String address;
-    String name;
-    Point location;
-    boolean isUsed = false;
-    int Capacity;
-    int demand;
+    public int id;
+    public String address;
+    public String name;
+    public Point location;
+    public boolean isUsed = false;
+    public int Capacity;
+    public int demand;
     ArrayList<Employee> EmployeeList = new ArrayList<Employee>();
 
     public BusStop(int id , Point p , String name , String address ){

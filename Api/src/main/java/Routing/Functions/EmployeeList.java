@@ -28,7 +28,7 @@ public class EmployeeList {
             String address = vals[1];
             JOpenCageForwardRequest request = new JOpenCageForwardRequest(address);
             request.setRestrictToCountryCode("IN");
-            request.setBounds(18.367, -34.109, 18.770, -33.704);
+            request.setBounds(77.0018, 12.6859, 78.3215, 13.4591);
             request.setLimit(1);
             request.setNoAnnotations(true);
 
@@ -48,5 +48,9 @@ public class EmployeeList {
                 e.printStackTrace();
             }
         }
+    }
+
+    public ArrayList<Employee> getEmployees(){
+        return this.emps;
     }
 }
