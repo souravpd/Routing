@@ -1,6 +1,6 @@
 package Routing.models;
 
-import com.esri.core.geometry.Point;
+import Routing.models.Point;
 
 public class Employee {
     public int id;

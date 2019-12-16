@@ -1,24 +1,21 @@
 package Routing.models;
 
-public class Point {
+public class Rectangle {
     final private static double R_MAJOR = 6378137.0;
     final private static double R_MINOR = 6356752.3142;
 
-    public double longitude;
-    public double latitude;
-    public double x;
-    public double y;
-    String Type;
+    double longitude;
+    double latitude;
+    double x;
+    double y;
+    double w;
+    double h;
 
-    public Point(double longitude, double latitude) {
-        this.latitude = latitude;
+    public Rectangle(double longitude, double latitude, double w, double h) {
         this.longitude = longitude;
-    }
-
-    public Point(double longitude, double latitude, String Type) {
         this.latitude = latitude;
-        this.longitude = longitude;
-        this.Type = Type;
+        this.w = w;
+        this.h = h;
     }
 
     public void calculateX() {
@@ -45,4 +42,12 @@ public class Point {
         this.y = y;
     }
 
+    public boolean contains(Point p) {
+        return (p.x >= this.x - this.w && p.x <= this.x + this.w && p.y >= this.y - this.h && p.y <= this.y + this.h);
+    }
+
+    public boolean intersects(Rectangle range) {
+        return !(range.x - range.w > this.x + this.w || range.x + range.w < this.x - this.w
+                || range.y - range.h > this.y + this.h || range.y + range.h < this.y - this.h);
+    }
 }

@@ -1,8 +1,7 @@
 package Routing.models;
 
 import java.util.ArrayList;
-
-import com.esri.core.geometry.Point;
+import Routing.models.Point;
 
 public class BusStop {
     public int id;
@@ -14,9 +13,9 @@ public class BusStop {
     public int demand = 0;
     public ArrayList<Employee> EmployeeList = new ArrayList<Employee>();
 
-    public BusStop(int id , Point p , String name , String address ){
+    public BusStop(int id, Point p, String name, String address) {
         this.id = id;
-        this.name= name;
+        this.name = name;
         this.address = address;
         this.location = p;
     }
