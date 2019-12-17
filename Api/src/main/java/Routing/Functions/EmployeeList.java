@@ -9,7 +9,6 @@ import com.byteowls.jopencage.model.JOpenCageLatLng;
 import com.byteowls.jopencage.model.JOpenCageResponse;
 
 import Routing.models.Employee;
-import Routing.models.Point;
 
 public class EmployeeList {
     public ArrayList<Employee> emps = new ArrayList<Employee>();
@@ -36,8 +35,7 @@ public class EmployeeList {
 
             if (response != null && response.getResults() != null && !response.getResults().isEmpty()) {
                 JOpenCageLatLng coordinates = response.getResults().get(0).getGeometry();
-                this.emps.add(
-                        new Employee(index++, new Point(coordinates.getLng(), coordinates.getLat()), name, address));
+                this.emps.add(new Employee(index++, coordinates.getLng(), coordinates.getLat(), name, address));
 
             } else {
                 System.out.println("Unable to geocode input address: " + address);
@@ -50,7 +48,7 @@ public class EmployeeList {
         }
     }
 
-    public ArrayList<Employee> getEmployees(){
+    public ArrayList<Employee> getEmployees() {
         return this.emps;
     }
 }

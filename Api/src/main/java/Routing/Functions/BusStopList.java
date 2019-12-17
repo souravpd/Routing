@@ -9,7 +9,6 @@ import com.byteowls.jopencage.model.JOpenCageLatLng;
 import com.byteowls.jopencage.model.JOpenCageResponse;
 
 import Routing.models.BusStop;
-import Routing.models.Point;
 
 public class BusStopList {
     public ArrayList<BusStop> busStops = new ArrayList<BusStop>();
@@ -36,8 +35,7 @@ public class BusStopList {
 
             if (response != null && response.getResults() != null && !response.getResults().isEmpty()) {
                 JOpenCageLatLng coordinates = response.getResults().get(0).getGeometry();
-                this.busStops.add(
-                        new BusStop(index++, new Point(coordinates.getLng(), coordinates.getLat()), name, address));
+                this.busStops.add(new BusStop(index++, coordinates.getLng(), coordinates.getLat(), name, address));
 
             } else {
                 System.out.println("Unable to geocode input address: " + address);
