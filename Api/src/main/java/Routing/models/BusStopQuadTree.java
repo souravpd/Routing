@@ -2,25 +2,25 @@ package Routing.models;
 
 import java.util.HashMap;
 
-public class QuadTree {
+public class BusStopQuadTree {
     public Rectangle boundary;
     public int capacity;
-    public HashMap<Employee, Point> hm = new HashMap<Employee, Point>();
+    public HashMap<BusStop, Point> hm = new HashMap<BusStop, Point>();
     public boolean divided = false;
-    public QuadTree northeast, northwest, southeast, southwest;
+    public BusStopQuadTree northeast, northwest, southeast, southwest;
 
-    public QuadTree(Rectangle boundary, int capacity) {
+    public BusStopQuadTree(Rectangle boundary, int capacity) {
         this.capacity = capacity;
         this.boundary = boundary;
     }
 
-    public boolean insert(Employee e, Point p) {
+    public boolean insert(BusStop e, Point p) {
         if (!this.boundary.contains(p)) {
             return false;
         }
         if (this.hm.size() < this.capacity) {
             this.hm.put(e, p);
-            System.out.println("Added point " + p.x + " "+ p.y + " For the Employee  " + e.name);
+            System.out.println("Added point " + p.x + " "+ p.y + " For the BusStop  " + e.name);
             return true;
         } else {
             if (!this.divided) {
@@ -46,30 +46,30 @@ public class QuadTree {
         double h = this.boundary.h;
 
         Rectangle ne = new Rectangle(x + w / 2, y - h / 2, w / 2, h / 2);
-        this.northeast = new QuadTree(ne, this.capacity);
+        this.northeast = new BusStopQuadTree(ne, this.capacity);
         Rectangle nw = new Rectangle(x - w / 2, y - h / 2, w / 2, h / 2);
-        this.northwest = new QuadTree(nw, this.capacity);
+        this.northwest = new BusStopQuadTree(nw, this.capacity);
         Rectangle se = new Rectangle(x + w / 2, y + h / 2, w / 2, h / 2);
-        this.southeast = new QuadTree(se, this.capacity);
+        this.southeast = new BusStopQuadTree(se, this.capacity);
         Rectangle sw = new Rectangle(x - w / 2, y + h / 2, w / 2, h / 2);
-        this.southwest = new QuadTree(sw, this.capacity);
+        this.southwest = new BusStopQuadTree(sw, this.capacity);
 
         this.divided = true;
     }
 
-    public HashMap<Employee, Point> query(Rectangle range) {
+    public HashMap<BusStop, Point> query(Rectangle range) {
         System.out.println("");
         System.out.println("Perfroming Range Queries For X : " + range.x + " Y : " + range.y + " Bounding : " + range.w);
-        HashMap<Employee, Point> hm = new HashMap<Employee, Point>();
+        HashMap<BusStop, Point> hm = new HashMap<BusStop, Point>();
         this.query(range, hm);
         return hm;
     }
 
-    private void query(Rectangle range, HashMap<Employee, Point> found) {
+    private void query(Rectangle range, HashMap<BusStop, Point> found) {
         if (!this.boundary.intersects(range)) {
             return;
         } else {
-            for (Employee e : this.hm.keySet()) {
+            for (BusStop e : this.hm.keySet()) {
                 if (range.contains(this.hm.get(e))) {
                     found.put(e, this.hm.get(e));
                 }

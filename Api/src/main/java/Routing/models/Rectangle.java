@@ -2,10 +2,10 @@ package Routing.models;
 
 public class Rectangle {
 
-    double x;
-    double y;
-    double w;
-    double h;
+    public double x;
+    public double y;
+    public double w;
+    public double h;
 
     public Rectangle(double x, double y, double w, double h) {
         this.x = x;

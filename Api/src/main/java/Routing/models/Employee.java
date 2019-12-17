@@ -15,6 +15,7 @@ public class Employee {
     public double y;
     public double referenceX = 8618787.888;
     public double referenceY = 1436543.088;
+    public double distanceToNearestBusStop = Double.POSITIVE_INFINITY;
 
     public Employee(int id, double longitude, double latitude, String name, String address) {
         this.id = id;
@@ -33,7 +34,7 @@ public class Employee {
 
     public void print() {
         System.out.println("Name : " + this.name + " Latitude " + this.latitude + " Longitude : " + this.longitude
-                + " BusStop " + (this.BusStop == null ? "No" : this.BusStop.id));
+                + " BusStop " + (this.BusStop == null ? "No" : this.BusStop.name));
     }
 
     public void calculateX() {

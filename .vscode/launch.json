@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - QuadTreeDrawingTest",
+            "request": "launch",
+            "mainClass": "Routing.QuadTreeDrawingTest",
+            "projectName": "Api"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Drawing",
+            "request": "launch",
+            "mainClass": "Routing.Functions.Drawing",
+            "projectName": "Api"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - QuadTreeTest",
             "request": "launch",
             "mainClass": "Routing.models.QuadTreeTest",

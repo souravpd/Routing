@@ -1,7 +1,6 @@
 package Routing.models;
 
 import java.util.ArrayList;
-import java.util.Comparator;
 
 public class BusStop {
     final private static double R_MAJOR = 6378137.0;
@@ -53,24 +52,4 @@ public class BusStop {
         double y = 0 - R_MAJOR * Math.log(ts);
         this.y = (y - referenceY) / Math.pow(10, 3);
     }
-
-    public static Comparator<BusStop> BusStopComparator = new Comparator<BusStop>() {
-
-        public int compare(BusStop b1, BusStop b2) {
-            Point p1 = new Point(b1.x , b1.y);
-            Point p2 = new Point(b2.x , b2.y);
-            double x1 = Math.abs(p1.x);
-            double x2 = Math.abs(p2.x);
-            double y1 = Math.abs(p1.y);
-            double y2 = Math.abs(p2.y);
-            double dist1 = Math.sqrt(x1 * x1 + y1 * y1);
-            double dist2 = Math.sqrt(x2 * x2 + y2 * y2);
-            if (dist1 > dist2)
-                return 1;
-            if (dist2 > dist1)
-                return -1;
-            else
-                return 0;
-        }
-    };
 }

@@ -1,6 +1,11 @@
-package Routing.models;
+package Routing;
 
 import java.util.HashMap;
+
+import Routing.models.Employee;
+import Routing.models.Point;
+import Routing.models.QuadTree;
+import Routing.models.Rectangle;
 
 public class QuadTreeTest {
 
