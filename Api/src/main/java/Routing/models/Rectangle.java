@@ -16,6 +16,15 @@ public class Rectangle {
         this.latitude = latitude;
         this.w = w;
         this.h = h;
+        // this.calculateX();
+        // this.calculateY();
+    }
+
+    public Rectangle(int x , int y , int w , int h){
+        this.x = x;
+        this.y = y;
+        this.w = w;
+        this.h = h;
     }
 
     public void calculateX() {

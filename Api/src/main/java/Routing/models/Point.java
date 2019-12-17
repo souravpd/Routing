@@ -15,10 +15,17 @@ public class Point {
         this.longitude = longitude;
     }
 
+    public Point(int x , int y){
+        this.x = x;
+        this.y = y;
+    }
+
     public Point(double longitude, double latitude, String Type) {
         this.latitude = latitude;
         this.longitude = longitude;
         this.Type = Type;
+        // this.calculateX();
+        // this.calculateY();
     }
 
     public void calculateX() {
