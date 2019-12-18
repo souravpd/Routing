@@ -2,17 +2,19 @@ package Routing;
 
 import java.io.File;
 import java.io.IOException;
+import java.text.ParseException;
 import java.util.ArrayList;
 
 import Routing.Functions.AssignBusStops;
 import Routing.Functions.BusStopList;
+import Routing.Functions.ComputeMatrices;
 import Routing.Functions.EmployeeList;
+import Routing.Functions.GenerateVRPFile;
 import Routing.models.BusStop;
 import Routing.models.Employee;
 
-
 public class App {
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) throws IOException, ParseException, org.json.simple.parser.ParseException {
         EmployeeList empList = new EmployeeList();
         empList.readEmployeeData(new File("employees.txt"), 45);
         ArrayList<Employee> employees = empList.getEmployees();
@@ -38,13 +40,13 @@ public class App {
         assign.constructQuadTree();
         assign.RangeQueries();
         assign.HandleEmployeesNotAssignedBusStops();
-        for(BusStop b : busStops){
+        for (BusStop b : busStops) {
             System.out.println("Name : " + b.name);
             System.out.println("Lat :" + b.latitude);
             System.out.println("Long : " + b.longitude);
             System.out.println("Demand : " + b.demand);
             System.out.println("Employees before the Removal");
-            for(Employee e : b.EmployeeList){
+            for (Employee e : b.EmployeeList) {
                 System.out.println(e.name);
             }
             System.out.println();
@@ -63,18 +65,25 @@ public class App {
         System.out.println();
         System.out.println();
         ArrayList<BusStop> newBusStopList = assign.newBusStopList;
-        for(BusStop b : newBusStopList){
+        for (BusStop b : newBusStopList) {
             System.out.println("Name : " + b.name);
             System.out.println("Lat :" + b.latitude);
             System.out.println("Long : " + b.longitude);
             System.out.println("Demand : " + b.demand);
             System.out.println("Employees after the Removal");
-            for(Employee e : b.EmployeeList){
+            for (Employee e : b.EmployeeList) {
                 System.out.println(e.name);
             }
             System.out.println();
             System.out.println();
             System.out.println();
         }
+        System.out.println();
+        ArrayList<BusStop> finalBusStopList = assign.getFinalBusStopList();
+        GenerateVRPFile vrp = new GenerateVRPFile(finalBusStopList);
+        vrp.writeToFile();
+        vrp.GenerateBusStopData();
+        ComputeMatrices compute = new ComputeMatrices(assign.getFinalBusStopList());
+        compute.createMatrixFiles();
     }
 }

@@ -1,6 +1,7 @@
 package Routing.models;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 
 public class BusStop {
     final private static double R_MAJOR = 6378137.0;
@@ -19,6 +20,7 @@ public class BusStop {
     public double referenceX = 8618787.888;
     public double referenceY = 1436543.088;
     public ArrayList<Employee> EmployeeList = new ArrayList<Employee>();
+    public HashMap<String, Double> distancesToBusStops = new HashMap<String, Double>();
 
     public BusStop(int id, double longitude, double latitude, String name, String address) {
         this.id = id;
@@ -29,6 +31,7 @@ public class BusStop {
         this.calculateX();
         this.calculateY();
     }
+
     public void calculateX() {
         this.x = (R_MAJOR * Math.toRadians(this.longitude) - referenceX) / Math.pow(10, 3);
     }

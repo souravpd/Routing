@@ -1,5 +1,7 @@
 package Routing.models;
 
+import java.util.HashMap;
+
 public class Employee {
 
     final private static double R_MAJOR = 6378137.0;
@@ -16,6 +18,7 @@ public class Employee {
     public double referenceX = 8618787.888;
     public double referenceY = 1436543.088;
     public double distanceToNearestBusStop = Double.POSITIVE_INFINITY;
+    public HashMap<String , Double> distanceToBusStops = new HashMap<String , Double>(); 
 
     public Employee(int id, double longitude, double latitude, String name, String address) {
         this.id = id;

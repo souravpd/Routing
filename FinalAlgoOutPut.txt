@@ -1,0 +1,509 @@
+Added point 17.066079021928832 10.046783582992154 For the Employee  Chickpet Cross
+Added point 18.636084592279047 11.212966272153194 For the Employee  Okalipuram Ward
+Added point 11.168717490123585 9.97907681340538 For the Employee  Manasa Hospital
+Added point 18.902171571122484 10.397987421135186 For the Employee  Rajaji Nagar RTO
+Added point 14.5516611555852 11.766147967882688 For the Employee  Ram Mandir Ground
+Added point 13.97000568423979 11.194146051027346 For the Employee  Sidvin Hospital Pvt Ltd
+Added point 14.25823410980217 9.555427994259167 For the Employee  Kodandaswami Temple
+Added point 13.475335263002664 9.850213067227276 For the Employee  Mary Matha church
+Added point 13.049504814870655 11.18444081530394 For the Employee  Dasarahalli
+Added point 17.20015221663937 10.989757906062762 For the Employee  Freedom Park
+Added point 18.902171571122484 10.397987421135186 For the Employee  St Mary's Basilica
+Added point 18.679009387928993 10.194921800906071 For the Employee  Government Aquarium
+Added point 18.636084592279047 11.212966272153194 For the Employee  Shanthi Nagar
+Added point 18.902171571122484 10.397987421135186 For the Employee  Fortis Hospital
+Added point 19.144803533256052 11.480548511511646 For the Employee  Jawaharlal Nehru Planetarium
+Added point 19.016385368676858 11.576705298807472 For the Employee  Karnataka High Court
+Added point 18.34618637435697 12.010533070978243 For the Employee  Mount Carmel College
+Added point 17.456710247069598 11.15456460211426 For the Employee  Maha Bodhi Society
+Added point 18.9747296152208 12.39106023644423 For the Employee  Bhagwan Mahaveer Jain Hospital
+Added point 18.627958269452677 12.196209971756907 For the Employee  Vikram Hospital
+Added point 18.636084592279047 11.212966272153194 For the Employee  Domlur Ward
+Added point 14.444382562307641 7.35638035099674 For the Employee  Bangalore City Railway Station
+Added point 18.978904096126556 13.756287672985811 For the Employee  Bangalore Palace
+Added point 18.902171571122484 10.397987421135186 For the Employee  Vanivilas Women and Children Hospital
+Added point 17.501761244993656 9.501717538322323 For the Employee  Silver Jubilee Park
+Added point 20.078295387202875 10.868290353481425 For the Employee  St. Marks Cathedral
+Added point 20.080065367104485 11.532264952720608 For the Employee  Sultan Shah Masjid
+Added point 18.902171571122484 10.397987421135186 For the Employee  St. Mary's Basilica
+Added point 19.103849092593418 11.533116299681831 For the Employee  Jawaharlal Nehru Planetarium
+Added point 18.679009387928993 10.194921800906071 For the Employee  Government Aquarium
+Added point 17.066079021928832 10.046783582992154 For the Employee  Chickpet Cross
+Added point 11.168717490123585 9.97907681340538 For the Employee  Manasa Hospital
+Added point 18.636084592279047 11.212966272153194 For the Employee  Okalipuram Ward
+Added point 14.550236266100779 12.965856597367674 For the Employee  Rajaji Nagar RTO
+Added point 14.5516611555852 11.766147967882688 For the Employee  Ram Mandir Ground
+Added point 13.97000568423979 11.194146051027346 For the Employee  Sidvin Hospital Pvt Ltd
+Added point 14.25823410980217 9.555427994259167 For the Employee  Kodandaswami Temple
+Added point 18.902171571122484 10.397987421135186 For the Employee  St Mary's Basilica
+Added point 18.34852408366464 10.92152669814229 For the Employee  Karnataka High Court
+Added point 17.456710247069598 11.15456460211426 For the Employee  Maha Bodhi Society
+Added point 18.902171571122484 10.397987421135186 For the Employee  Bhagwan Mahaveer Jain Hospital
+Added point 17.501761244993656 9.501717538322323 For the Employee  Silver Jubilee Park
+Added point 20.078295387202875 10.868290353481425 For the Employee  St. Marks Cathedral
+Added point 18.636084592279047 11.212966272153194 For the Employee  Shanthi Nagar
+Added point 18.902171571122484 10.397987421135186 For the Employee  Fortis Hospital
+Added point 17.455775163346903 11.347205443669111 For the BusStop  VRL Bus Station
+Added point 16.412288520550355 11.03219959513261 For the BusStop  Kempegowda Bus Station
+Added point 14.25823410980217 9.555427994259167 For the BusStop  Old Gudahalli
+Added point 13.249735182959586 11.937826888164738 For the BusStop  Rajajinagar Industrial Town
+Added point 18.902171571122484 10.397987421135186 For the BusStop  Kalasipalya Bus Stand
+Added point 19.931732145622373 11.653088373476873 For the BusStop  Shivajinagar Bus Station
+Added point 20.55807126057148 10.524231645120075 For the BusStop  Brigade Road Bus Stand
+Added point 17.858684928325935 13.327813551947708 For the BusStop  Forum City Apartment
+
+Perfroming Range Queries For X : 17.455775163346903 Y : 11.347205443669111 Bounding : 2.0
+
+Found These Employees for This Bus Stop in Sorted Order based on Distances : VRL Bus Station
+Maha Bodhi Society
+Maha Bodhi Society
+Freedom Park
+Karnataka High Court
+Chickpet Cross
+Chickpet Cross
+Mount Carmel College
+Vikram Hospital
+Jawaharlal Nehru Planetarium
+Jawaharlal Nehru Planetarium
+Bhagwan Mahaveer Jain Hospital
+Karnataka High Court
+Okalipuram Ward
+Okalipuram Ward
+Domlur Ward
+Shanthi Nagar
+Shanthi Nagar
+Silver Jubilee Park
+Silver Jubilee Park
+Fortis Hospital
+Rajaji Nagar RTO
+Vanivilas Women and Children Hospital
+St Mary's Basilica
+St Mary's Basilica
+Fortis Hospital
+St. Mary's Basilica
+Bhagwan Mahaveer Jain Hospital
+Government Aquarium
+Government Aquarium
+
+Perfroming Range Queries For X : 16.412288520550355 Y : 11.03219959513261 Bounding : 2.0
+
+Found These Employees for This Bus Stop in Sorted Order based on Distances : Kempegowda Bus Station
+Freedom Park
+Chickpet Cross
+Chickpet Cross
+Maha Bodhi Society
+Maha Bodhi Society
+Karnataka High Court
+Silver Jubilee Park
+Silver Jubilee Park
+Mount Carmel College
+Ram Mandir Ground
+Ram Mandir Ground
+Rajaji Nagar RTO
+
+Perfroming Range Queries For X : 14.25823410980217 Y : 9.555427994259167 Bounding : 2.0
+
+Found These Employees for This Bus Stop in Sorted Order based on Distances : Old Gudahalli
+Kodandaswami Temple
+Kodandaswami Temple
+Mary Matha church
+Sidvin Hospital Pvt Ltd
+Sidvin Hospital Pvt Ltd
+Dasarahalli
+
+Perfroming Range Queries For X : 13.249735182959586 Y : 11.937826888164738 Bounding : 2.0
+
+Found These Employees for This Bus Stop in Sorted Order based on Distances : Rajajinagar Industrial Town
+Dasarahalli
+Ram Mandir Ground
+Ram Mandir Ground
+Sidvin Hospital Pvt Ltd
+Sidvin Hospital Pvt Ltd
+Rajaji Nagar RTO
+
+Perfroming Range Queries For X : 18.902171571122484 Y : 10.397987421135186 Bounding : 2.0
+
+Found These Employees for This Bus Stop in Sorted Order based on Distances : Kalasipalya Bus Stand
+Fortis Hospital
+Rajaji Nagar RTO
+Vanivilas Women and Children Hospital
+St Mary's Basilica
+St Mary's Basilica
+Fortis Hospital
+St. Mary's Basilica
+Bhagwan Mahaveer Jain Hospital
+Government Aquarium
+Government Aquarium
+Silver Jubilee Park
+Silver Jubilee Park
+Karnataka High Court
+Chickpet Cross
+Chickpet Cross
+Maha Bodhi Society
+Maha Bodhi Society
+Jawaharlal Nehru Planetarium
+Jawaharlal Nehru Planetarium
+Okalipuram Ward
+Okalipuram Ward
+Domlur Ward
+Shanthi Nagar
+Freedom Park
+Shanthi Nagar
+Karnataka High Court
+Mount Carmel College
+Vikram Hospital
+Bhagwan Mahaveer Jain Hospital
+Sultan Shah Masjid
+St. Marks Cathedral
+St. Marks Cathedral
+
+Perfroming Range Queries For X : 19.931732145622373 Y : 11.653088373476873 Bounding : 2.0
+
+Found These Employees for This Bus Stop in Sorted Order based on Distances : Shivajinagar Bus Station
+Sultan Shah Masjid
+Karnataka High Court
+Jawaharlal Nehru Planetarium
+Jawaharlal Nehru Planetarium
+Okalipuram Ward
+Okalipuram Ward
+Domlur Ward
+Shanthi Nagar
+Shanthi Nagar
+Fortis Hospital
+Rajaji Nagar RTO
+Vanivilas Women and Children Hospital
+St Mary's Basilica
+St Mary's Basilica
+Fortis Hospital
+St. Mary's Basilica
+Bhagwan Mahaveer Jain Hospital
+St. Marks Cathedral
+St. Marks Cathedral
+Bhagwan Mahaveer Jain Hospital
+Government Aquarium
+Government Aquarium
+Mount Carmel College
+Karnataka High Court
+Vikram Hospital
+
+Perfroming Range Queries For X : 20.55807126057148 Y : 10.524231645120075 Bounding : 2.0
+
+Found These Employees for This Bus Stop in Sorted Order based on Distances : Brigade Road Bus Stand
+St. Marks Cathedral
+St. Marks Cathedral
+Fortis Hospital
+St Mary's Basilica
+Fortis Hospital
+St. Mary's Basilica
+Rajaji Nagar RTO
+Vanivilas Women and Children Hospital
+St Mary's Basilica
+Bhagwan Mahaveer Jain Hospital
+Sultan Shah Masjid
+Government Aquarium
+Government Aquarium
+Karnataka High Court
+Jawaharlal Nehru Planetarium
+Jawaharlal Nehru Planetarium
+Okalipuram Ward
+Shanthi Nagar
+Okalipuram Ward
+Domlur Ward
+Shanthi Nagar
+Vikram Hospital
+Bhagwan Mahaveer Jain Hospital
+
+Perfroming Range Queries For X : 17.858684928325935 Y : 13.327813551947708 Bounding : 2.0
+
+Found These Employees for This Bus Stop in Sorted Order based on Distances : Forum City Apartment
+Bhagwan Mahaveer Jain Hospital
+Mount Carmel College
+Vikram Hospital
+Jawaharlal Nehru Planetarium
+Jawaharlal Nehru Planetarium
+Karnataka High Court
+Bangalore Palace
+
+Perfroming Range Queries For X : 11.168717490123585 Y : 9.97907681340538 Bounding : 5.0
+
+Perfroming Range Queries For X : 14.444382562307641 Y : 7.35638035099674 Bounding : 5.0
+
+Perfroming Range Queries For X : 11.168717490123585 Y : 9.97907681340538 Bounding : 5.0
+Name : VRL Bus Station
+Lat :12.9803024
+Long : 77.5806968
+Demand : 3
+Employees before the Removal
+Maha Bodhi Society
+Maha Bodhi Society
+Karnataka High Court
+
+
+
+Name : Kempegowda Bus Station
+Lat :12.9775273
+Long : 77.571323
+Demand : 3
+Employees before the Removal
+Freedom Park
+Chickpet Cross
+Chickpet Cross
+
+
+
+Name : Old Gudahalli
+Lat :12.964517
+Long : 77.5519728
+Demand : 6
+Employees before the Removal
+Kodandaswami Temple
+Kodandaswami Temple
+Mary Matha church
+Manasa Hospital
+Bangalore City Railway Station
+Manasa Hospital
+
+
+
+Name : Rajajinagar Industrial Town
+Lat :12.9855055
+Long : 77.5429133
+Demand : 6
+Employees before the Removal
+Dasarahalli
+Ram Mandir Ground
+Ram Mandir Ground
+Sidvin Hospital Pvt Ltd
+Sidvin Hospital Pvt Ltd
+Rajaji Nagar RTO
+
+
+
+Name : Kalasipalya Bus Stand
+Lat :12.97194
+Long : 77.59369
+Demand : 12
+Employees before the Removal
+Fortis Hospital
+Rajaji Nagar RTO
+Vanivilas Women and Children Hospital
+St Mary's Basilica
+St Mary's Basilica
+Fortis Hospital
+St. Mary's Basilica
+Bhagwan Mahaveer Jain Hospital
+Government Aquarium
+Government Aquarium
+Silver Jubilee Park
+Silver Jubilee Park
+
+
+
+Name : Shivajinagar Bus Station
+Lat :12.9829971
+Long : 77.6029387
+Demand : 12
+Employees before the Removal
+Sultan Shah Masjid
+Karnataka High Court
+Jawaharlal Nehru Planetarium
+Jawaharlal Nehru Planetarium
+Okalipuram Ward
+Okalipuram Ward
+Domlur Ward
+Shanthi Nagar
+Shanthi Nagar
+Bhagwan Mahaveer Jain Hospital
+Mount Carmel College
+Vikram Hospital
+
+
+
+Name : Brigade Road Bus Stand
+Lat :12.9730522
+Long : 77.6085652
+Demand : 2
+Employees before the Removal
+St. Marks Cathedral
+St. Marks Cathedral
+
+
+
+Name : Forum City Apartment
+Lat :12.9977502
+Long : 77.5843162
+Demand : 1
+Employees before the Removal
+Bangalore Palace
+
+
+
+
+
+
+Removing Extra BusStops
+
+Perfroming Range Queries For X : 17.455775163346903 Y : 11.347205443669111 Bounding : 5.0
+
+Perfroming Range Queries For X : 20.55807126057148 Y : 10.524231645120075 Bounding : 5.0
+
+Perfroming Range Queries For X : 17.858684928325935 Y : 13.327813551947708 Bounding : 5.0
+Name : Chickpet Cross Latitude 12.9688459 Longitude : 77.5771961 BusStop Kempegowda Bus Station
+Name : Okalipuram Ward Latitude 12.9791198 Longitude : 77.5912997 BusStop Shivajinagar Bus Station
+Name : Manasa Hospital Latitude 12.9682494 Longitude : 77.5242192 BusStop Old Gudahalli
+Name : Rajaji Nagar RTO Latitude 12.97194 Longitude : 77.59369 BusStop Kalasipalya Bus Stand
+Name : Ram Mandir Ground Latitude 12.9839931 Longitude : 77.5546087 BusStop Rajajinagar Industrial Town
+Name : Sidvin Hospital Pvt Ltd Latitude 12.978954 Longitude : 77.5493836 BusStop Rajajinagar Industrial Town
+Name : Kodandaswami Temple Latitude 12.964517 Longitude : 77.5519728 BusStop Old Gudahalli
+Name : Mary Matha church Latitude 12.9671141 Longitude : 77.5449399 BusStop Old Gudahalli
+Name : Dasarahalli Latitude 12.9788685 Longitude : 77.5411146 BusStop Rajajinagar Industrial Town
+Name : Freedom Park Latitude 12.9771534 Longitude : 77.5784005 BusStop Kempegowda Bus Station
+Name : St Mary's Basilica Latitude 12.97194 Longitude : 77.59369 BusStop Kalasipalya Bus Stand
+Name : Government Aquarium Latitude 12.970151 Longitude : 77.5916853 BusStop Kalasipalya Bus Stand
+Name : Shanthi Nagar Latitude 12.9791198 Longitude : 77.5912997 BusStop Shivajinagar Bus Station
+Name : Fortis Hospital Latitude 12.97194 Longitude : 77.59369 BusStop Kalasipalya Bus Stand
+Name : Jawaharlal Nehru Planetarium Latitude 12.9814771 Longitude : 77.5958696 BusStop Shivajinagar Bus Station
+Name : Karnataka High Court Latitude 12.9823242 Longitude : 77.594716 BusStop Shivajinagar Bus Station
+Name : Mount Carmel College Latitude 12.986146 Longitude : 77.5886955 BusStop Shivajinagar Bus Station
+Name : Maha Bodhi Society Latitude 12.9786053 Longitude : 77.5807052 BusStop Kempegowda Bus Station
+Name : Bhagwan Mahaveer Jain Hospital Latitude 12.9894982 Longitude : 77.5943418 BusStop Shivajinagar Bus Station
+Name : Vikram Hospital Latitude 12.9877817 Longitude : 77.5912267 BusStop Shivajinagar Bus Station
+Name : Domlur Ward Latitude 12.9791198 Longitude : 77.5912997 BusStop Shivajinagar Bus Station
+Name : Bangalore City Railway Station Latitude 12.9451422 Longitude : 77.553645 BusStop Old Gudahalli
+Name : Bangalore Palace Latitude 13.0015246 Longitude : 77.5943793 BusStop VRL Bus Station
+Name : Vanivilas Women and Children Hospital Latitude 12.97194 Longitude : 77.59369 BusStop Kalasipalya Bus Stand
+Name : Silver Jubilee Park Latitude 12.9640438 Longitude : 77.5811099 BusStop Kalasipalya Bus Stand
+Name : St. Marks Cathedral Latitude 12.9760833 Longitude : 77.6042553 BusStop Brigade Road Bus Stand
+Name : Sultan Shah Masjid Latitude 12.9819327 Longitude : 77.6042712 BusStop Shivajinagar Bus Station
+Name : St. Mary's Basilica Latitude 12.97194 Longitude : 77.59369 BusStop Kalasipalya Bus Stand
+Name : Jawaharlal Nehru Planetarium Latitude 12.9819402 Longitude : 77.5955017 BusStop Shivajinagar Bus Station
+Name : Government Aquarium Latitude 12.970151 Longitude : 77.5916853 BusStop Kalasipalya Bus Stand
+Name : Chickpet Cross Latitude 12.9688459 Longitude : 77.5771961 BusStop Kempegowda Bus Station
+Name : Manasa Hospital Latitude 12.9682494 Longitude : 77.5242192 BusStop Old Gudahalli
+Name : Okalipuram Ward Latitude 12.9791198 Longitude : 77.5912997 BusStop Shivajinagar Bus Station
+Name : Rajaji Nagar RTO Latitude 12.9945617 Longitude : 77.5545959 BusStop Rajajinagar Industrial Town
+Name : Ram Mandir Ground Latitude 12.9839931 Longitude : 77.5546087 BusStop Rajajinagar Industrial Town
+Name : Sidvin Hospital Pvt Ltd Latitude 12.978954 Longitude : 77.5493836 BusStop Rajajinagar Industrial Town
+Name : Kodandaswami Temple Latitude 12.964517 Longitude : 77.5519728 BusStop Old Gudahalli
+Name : St Mary's Basilica Latitude 12.97194 Longitude : 77.59369 BusStop Kalasipalya Bus Stand
+Name : Karnataka High Court Latitude 12.9765523 Longitude : 77.5887165 BusStop Kempegowda Bus Station
+Name : Maha Bodhi Society Latitude 12.9786053 Longitude : 77.5807052 BusStop VRL Bus Station
+Name : Bhagwan Mahaveer Jain Hospital Latitude 12.97194 Longitude : 77.59369 BusStop Kalasipalya Bus Stand
+Name : Silver Jubilee Park Latitude 12.9640438 Longitude : 77.5811099 BusStop Kalasipalya Bus Stand
+Name : St. Marks Cathedral Latitude 12.9760833 Longitude : 77.6042553 BusStop Shivajinagar Bus Station
+Name : Shanthi Nagar Latitude 12.9791198 Longitude : 77.5912997 BusStop Shivajinagar Bus Station
+Name : Fortis Hospital Latitude 12.97194 Longitude : 77.59369 BusStop Kalasipalya Bus Stand
+
+
+
+Name : VRL Bus Station
+Lat :12.9803024
+Long : 77.5806968
+Demand : 2
+Employees after the Removal
+Maha Bodhi Society
+Bangalore Palace
+
+
+
+Name : Kempegowda Bus Station
+Lat :12.9775273
+Long : 77.571323
+Demand : 5
+Employees after the Removal
+Freedom Park
+Chickpet Cross
+Chickpet Cross
+Maha Bodhi Society
+Karnataka High Court
+
+
+
+Name : Old Gudahalli
+Lat :12.964517
+Long : 77.5519728
+Demand : 6
+Employees after the Removal
+Kodandaswami Temple
+Kodandaswami Temple
+Mary Matha church
+Manasa Hospital
+Bangalore City Railway Station
+Manasa Hospital
+
+
+
+Name : Rajajinagar Industrial Town
+Lat :12.9855055
+Long : 77.5429133
+Demand : 6
+Employees after the Removal
+Dasarahalli
+Ram Mandir Ground
+Ram Mandir Ground
+Sidvin Hospital Pvt Ltd
+Sidvin Hospital Pvt Ltd
+Rajaji Nagar RTO
+
+
+
+Name : Kalasipalya Bus Stand
+Lat :12.97194
+Long : 77.59369
+Demand : 12
+Employees after the Removal
+Fortis Hospital
+Rajaji Nagar RTO
+Vanivilas Women and Children Hospital
+St Mary's Basilica
+St Mary's Basilica
+Fortis Hospital
+St. Mary's Basilica
+Bhagwan Mahaveer Jain Hospital
+Government Aquarium
+Government Aquarium
+Silver Jubilee Park
+Silver Jubilee Park
+
+
+
+Name : Shivajinagar Bus Station
+Lat :12.9829971
+Long : 77.6029387
+Demand : 13
+Employees after the Removal
+Sultan Shah Masjid
+Karnataka High Court
+Jawaharlal Nehru Planetarium
+Jawaharlal Nehru Planetarium
+Okalipuram Ward
+Okalipuram Ward
+Domlur Ward
+Shanthi Nagar
+Shanthi Nagar
+Bhagwan Mahaveer Jain Hospital
+Mount Carmel College
+Vikram Hospital
+St. Marks Cathedral
+
+
+
+Name : Brigade Road Bus Stand
+Lat :12.9730522
+Long : 77.6085652
+Demand : 1
+Employees after the Removal
+St. Marks Cathedral
+
+
+
+Name : Forum City Apartment
+Lat :12.9977502
+Long : 77.5843162
+Demand : 0
+Employees after the Removal
+
+
+
+
+{"locations":[[8.477473,8.477473],[77.5806968,12.9803024],[77.571323,12.9775273],[77.5519728,12.964517],[77.5429133,12.9855055],[77.59369,12.97194],[77.6029387,12.9829971],[77.6085652,12.9730522]],"metrics":["distance","duration"],"units":"km"}

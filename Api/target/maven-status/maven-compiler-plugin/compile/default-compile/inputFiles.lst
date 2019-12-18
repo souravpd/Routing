@@ -1,13 +1,16 @@
 /home/fancyarrow/Github/Routing/Api/src/main/java/Routing/models/Tuple.java
+/home/fancyarrow/Github/Routing/Api/src/main/java/Routing/Functions/DistanceCalculator.java
 /home/fancyarrow/Github/Routing/Api/src/main/java/Routing/models/Dictionary.java
 /home/fancyarrow/Github/Routing/Api/src/main/java/Routing/Functions/AssignBusStops.java
 /home/fancyarrow/Github/Routing/Api/src/main/java/Routing/App.java
 /home/fancyarrow/Github/Routing/Api/src/main/java/Routing/models/QuadTree.java
 /home/fancyarrow/Github/Routing/Api/src/main/java/Routing/models/BusStopQuadTree.java
 /home/fancyarrow/Github/Routing/Api/src/main/java/Routing/Functions/BusStopList.java
+/home/fancyarrow/Github/Routing/Api/src/main/java/Routing/Functions/ComputeMatrices.java
 /home/fancyarrow/Github/Routing/Api/src/main/java/Routing/models/Employee.java
 /home/fancyarrow/Github/Routing/Api/src/main/java/Routing/models/Rectangle.java
 /home/fancyarrow/Github/Routing/Api/src/main/java/Routing/models/BusStopTuple.java
 /home/fancyarrow/Github/Routing/Api/src/main/java/Routing/Functions/EmployeeList.java
 /home/fancyarrow/Github/Routing/Api/src/main/java/Routing/models/Point.java
+/home/fancyarrow/Github/Routing/Api/src/main/java/Routing/Functions/GenerateVRPFile.java
 /home/fancyarrow/Github/Routing/Api/src/main/java/Routing/models/BusStop.java

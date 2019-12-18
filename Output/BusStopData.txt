@@ -1,0 +1,59 @@
+Name: VRL Bus Station,Longitude: 77.5806968,Latitude: 12.9803024,Address: Sheshadri Road Gandhinagar Bengaluru
+Name: Maha Bodhi Society,Longitude: 77.5807052,Latitude: 12.9786053,Address: 14 Kalidasa Road Gandhinagar Bengaluru Karnataka India
+Name: Bangalore Palace,Longitude: 77.5943793,Latitude: 13.0015246,Address: Jayamahal Road Aramane Nagara Ward Bengaluru Karnataka India
+
+Name: Kempegowda Bus Station,Longitude: 77.571323,Latitude: 12.9775273,Address: City Bus Road Gandhinagar Bengaluru
+Name: Freedom Park,Longitude: 77.5784005,Latitude: 12.9771534,Address: Gandhinagar Bengaluru Bangalore Urban India
+Name: Chickpet Cross,Longitude: 77.5771961,Latitude: 12.9688459,Address: Mamulpet Road Chickpete Bengaluru
+Name: Chickpet Cross,Longitude: 77.5771961,Latitude: 12.9688459,Address: Mamulpet Road Chickpete Bengaluru
+Name: Maha Bodhi Society,Longitude: 77.5807052,Latitude: 12.9786053,Address: 14 Kalidasa Road Gandhinagar Bengaluru Karnataka India
+Name: Karnataka High Court,Longitude: 77.5887165,Latitude: 12.9765523,Address: Doctor B R Ambedkar Veedhi Sampangiram Nagar Ward Bengaluru Karnataka India
+
+Name: Old Gudahalli,Longitude: 77.5519728,Latitude: 12.964517,Address:  Hosahalli Main Road Padarayanapura Bengaluru
+Name: Kodandaswami Temple,Longitude: 77.5519728,Latitude: 12.964517,Address: Hosahalli Main Road Padarayanapura Bengaluru Karnataka India
+Name: Kodandaswami Temple,Longitude: 77.5519728,Latitude: 12.964517,Address: Hosahalli Main Road Padarayanapura Bengaluru Karnataka India
+Name: Mary Matha church,Longitude: 77.5449399,Latitude: 12.9671141,Address: 4th Main Road Hosahalli Bengaluru Karnataka India
+Name: Manasa Hospital,Longitude: 77.5242192,Latitude: 12.9682494,Address: Nagarabhavi Road Mudalapalya Ward Bengaluru Karnataka India
+Name: Bangalore City Railway Station,Longitude: 77.553645,Latitude: 12.9451422,Address: Bangalore Urban India
+Name: Manasa Hospital,Longitude: 77.5242192,Latitude: 12.9682494,Address: Nagarabhavi Road Mudalapalya Ward Bengaluru Karnataka India
+
+Name: Rajajinagar Industrial Town,Longitude: 77.5429133,Latitude: 12.9855055,Address: 1st Main Basaveshwaranagar Kamakshipalya Ward Bengaluru
+Name: Dasarahalli,Longitude: 77.5411146,Latitude: 12.9788685,Address: Magadi Road Agrahara Dasarahalli Ward Bengaluru Karnataka India
+Name: Ram Mandir Ground,Longitude: 77.5546087,Latitude: 12.9839931,Address: Sriramamandir Ward Bengaluru Bangalore Urban India
+Name: Ram Mandir Ground,Longitude: 77.5546087,Latitude: 12.9839931,Address: Sriramamandir Ward Bengaluru Bangalore Urban India
+Name: Sidvin Hospital Pvt Ltd,Longitude: 77.5493836,Latitude: 12.978954,Address: Chord Road Dr. Raj Kumar Ward Bengaluru Karnataka India
+Name: Sidvin Hospital Pvt Ltd,Longitude: 77.5493836,Latitude: 12.978954,Address: Chord Road Dr. Raj Kumar Ward Bengaluru Karnataka India
+Name: Rajaji Nagar RTO,Longitude: 77.5545959,Latitude: 12.9945617,Address: 23rd Cross Road Rajaji Nagar Ward Bengaluru Karnataka India
+
+Name: Kalasipalya Bus Stand,Longitude: 77.59369,Latitude: 12.97194,Address: Kalasipalya Main Road Dharmaraya Swamy Temple Ward Bengaluru Karnataka India
+Name: Fortis Hospital,Longitude: 77.59369,Latitude: 12.97194,Address: 111 46th A Cross Road Sriramamandir Ward Bengaluru Karnataka India
+Name: Rajaji Nagar RTO,Longitude: 77.59369,Latitude: 12.97194,Address: 23rd Cross Road Rajaji Nagar Ward Bengaluru Karnataka India
+Name: Vanivilas Women and Children Hospital,Longitude: 77.59369,Latitude: 12.97194,Address: Krishna Rajendra Road K R Market Ward Bengaluru Karnataka India
+Name: St Mary's Basilica,Longitude: 77.59369,Latitude: 12.97194,Address: Meenakshi Kovil Street Bharathi Nagar Ward Bengaluru Karnataka India
+Name: St Mary's Basilica,Longitude: 77.59369,Latitude: 12.97194,Address: Meenakshi Kovil Street Bharathi Nagar Ward Bengaluru Karnataka India
+Name: Fortis Hospital,Longitude: 77.59369,Latitude: 12.97194,Address: 111 46th A Cross Road Sriramamandir Ward Bengaluru Karnataka India
+Name: St. Mary's Basilica,Longitude: 77.59369,Latitude: 12.97194,Address: Meenakshi Kovil Street Bharathi Nagar Ward Bengaluru Karnataka India
+Name: Bhagwan Mahaveer Jain Hospital,Longitude: 77.59369,Latitude: 12.97194,Address: Millers Tank Bund Road Vasanth Nagar Bengaluru Karnataka India
+Name: Government Aquarium,Longitude: 77.5916853,Latitude: 12.970151,Address: Kasturba Road Sampangiram Nagar Ward Bengaluru Karnataka India
+Name: Government Aquarium,Longitude: 77.5916853,Latitude: 12.970151,Address: Kasturba Road Sampangiram Nagar Ward Bengaluru Karnataka India
+Name: Silver Jubilee Park,Longitude: 77.5811099,Latitude: 12.9640438,Address: Dharmaraya Swamy Temple Ward Bengaluru Bangalore Urban India
+Name: Silver Jubilee Park,Longitude: 77.5811099,Latitude: 12.9640438,Address: Dharmaraya Swamy Temple Ward Bengaluru Bangalore Urban India
+
+Name: Shivajinagar Bus Station,Longitude: 77.6029387,Latitude: 12.9829971,Address: Sivajinagar Bus Stand Sampangiram Nagar Ward Bengaluru Karnataka India
+Name: Sultan Shah Masjid,Longitude: 77.6042712,Latitude: 12.9819327,Address: Hospital Road Sampangiram Nagar Ward Bengaluru Karnataka India
+Name: Karnataka High Court,Longitude: 77.594716,Latitude: 12.9823242,Address: Doctor B R Ambedkar Veedhi Sampangiram Nagar Ward Bengaluru Karnataka India
+Name: Jawaharlal Nehru Planetarium,Longitude: 77.5955017,Latitude: 12.9819402,Address: Raj Bhavan Road Sampangiram Nagar Ward Bengaluru Karnataka India
+Name: Jawaharlal Nehru Planetarium,Longitude: 77.5958696,Latitude: 12.9814771,Address: Raj Bhavan Road Sampangiram Nagar Ward Bengaluru Karnataka India
+Name: Okalipuram Ward,Longitude: 77.5912997,Latitude: 12.9791198,Address: Bengaluru Bangalore Urban India
+Name: Okalipuram Ward,Longitude: 77.5912997,Latitude: 12.9791198,Address: Bengaluru Bangalore Urban India
+Name: Domlur Ward,Longitude: 77.5912997,Latitude: 12.9791198,Address: Bengaluru Bangalore Urban India
+Name: Shanthi Nagar,Longitude: 77.5912997,Latitude: 12.9791198,Address: Bengaluru Karnataka India
+Name: Shanthi Nagar,Longitude: 77.5912997,Latitude: 12.9791198,Address: Bengaluru Karnataka India
+Name: Bhagwan Mahaveer Jain Hospital,Longitude: 77.5943418,Latitude: 12.9894982,Address: Millers Tank Bund Road Vasanth Nagar Bengaluru Karnataka India
+Name: Mount Carmel College,Longitude: 77.5886955,Latitude: 12.986146,Address: Palace Road Vasanth Nagar Bengaluru Karnataka India
+Name: Vikram Hospital,Longitude: 77.5912267,Latitude: 12.9877817,Address: Basaveshara Road Vasanth Nagar Bengaluru Karnataka India
+Name: St. Marks Cathedral,Longitude: 77.6042553,Latitude: 12.9760833,Address: Mahatma Gandhi Road Shantala Nagar Bengaluru Karnataka India
+
+Name: Brigade Road Bus Stand,Longitude: 77.6085652,Latitude: 12.9730522,Address: F M Cariappa Road Shantala Nagar Bengaluru Karnataka India
+Name: St. Marks Cathedral,Longitude: 77.6042553,Latitude: 12.9760833,Address: Mahatma Gandhi Road Shantala Nagar Bengaluru Karnataka India
+

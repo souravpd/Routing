@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ComputeMatrices",
+            "request": "launch",
+            "mainClass": "Routing.Functions.ComputeMatrices",
+            "projectName": "Api"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - QuadTreeDrawingTest",
             "request": "launch",
             "mainClass": "Routing.QuadTreeDrawingTest",
