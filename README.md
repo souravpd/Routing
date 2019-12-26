@@ -10,6 +10,13 @@ We use the Quad Tree Data Structure to Query the Number of Employees Falling in 
 
 Finally We Generate the Data.vrp File and Distance and Durations Matrix for feeding to the VRP Solver
 
+# Dependencies
+
+- Json-Simple
+- JOpenCage Geocoder
+- Open Routing Service
+- Jersey
+
 # Usage
 
 - This is a Maven Project
